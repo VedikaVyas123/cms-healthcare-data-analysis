@@ -41,7 +41,7 @@ Raw CMS Data → Cleaning (Python) → MySQL → SQL Analysis → Tableau Dashbo
 ![Geographic Distribution](geo_distribution.png)
 
 ### Provider Specialties
-![Specialties](specialty_distribution.png)
+![Specialties](speciality_distribution.png)
 
 ---
 
