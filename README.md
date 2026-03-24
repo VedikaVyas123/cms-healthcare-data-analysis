@@ -35,13 +35,13 @@ Raw CMS Data → Cleaning (Python) → MySQL → SQL Analysis → Tableau Dashbo
 ## 📈 Dashboards
 
 ### Risk vs Services
-![Risk vs Services](images/risk_vs_services.png)
+![Risk vs Services](risk_vs_services.png)
 
 ### Geographic Distribution
-![Geographic Distribution](images/geo_distribution.png)
+![Geographic Distribution](geo_distribution.png)
 
 ### Provider Specialties
-![Specialties](images/specialty_distribution.png)
+![Specialties](specialty_distribution.png)
 
 ---
 
